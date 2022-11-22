@@ -1,3 +1,6 @@
+
+## [Live site](https://github-api-project-shira.netlify.app)
+
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
