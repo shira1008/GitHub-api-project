@@ -51,7 +51,6 @@ export default ReactComponent
   - Allowed Callback URLs
   - Allowed Logout URLs
   - Allowed Web Origins
-  - SAVE CHANGES!!!!!!!!!!!!!!!
 
 - Connections
   email,social
