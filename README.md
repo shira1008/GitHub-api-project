@@ -1,5 +1,5 @@
 
-## [click here to the Live site](https://github-api-project-shira.netlify.app)
+## [Click here to the live site](https://github-api-project-shira.netlify.app)
 
 ## Styled Components
 
